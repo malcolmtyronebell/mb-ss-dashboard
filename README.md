@@ -2,7 +2,6 @@
 
 A full-stack shared calendar dashboard that aggregates events from multiple Google and Microsoft accounts into a unified, color-coded interface. Built with a security-first architecture featuring OAuth2 multi-provider authentication, JWT session management, encrypted token storage, and role-based data isolation.
 
-> **Live project** — not a demo. This application is actively used daily by two users to manage schedules, appointments, travel, and recurring events across multiple email and calendar providers.
 
 ---
 
