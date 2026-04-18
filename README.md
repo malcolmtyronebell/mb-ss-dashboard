@@ -7,7 +7,7 @@
 
 ## Problem
 
-Households, small teams, and extended families routinely live across **multiple calendar providers** — a Google personal account, a Google Workspace work account, a Microsoft 365 account. Seeing everyone's real availability in one place normally means either switching apps constantly or handing sensitive credentials to a third-party SaaS.
+Households, small teams, and extended families routinely live across **multiple calendar providers** — a Google personal account, a Google Workspace work account. Seeing everyone's real availability in one place normally means either switching apps constantly or handing sensitive credentials to a third-party SaaS.
 
 ## Solution
 
